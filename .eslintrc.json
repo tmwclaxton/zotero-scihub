@@ -193,7 +193,7 @@
     "import/order": "off",
     "linebreak-style": [
       "error",
-      "unix"
+      "windows"
     ],
     "max-classes-per-file": "off",
     "max-len": [
